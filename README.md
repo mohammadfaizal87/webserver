@@ -53,13 +53,13 @@ class MyServer(BaseHTTPRequestHandler):
         self.wfile.write(content.encode())
 
 print("This is my webserver")
-server_address =('',8010)
+server_address =('',8069)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever() '''
 
 ## OUTPUT:
 ### server output
-![serveroutput](./severoutput.png)
+![serveroutput](./serveroutput.png)
 ### client output
 ![clientoutput](./clientoutput.png)
 ## RESULT:
