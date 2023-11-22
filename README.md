@@ -59,8 +59,10 @@ httpd.serve_forever() '''
 
 ## OUTPUT:
 ### server output
-![serveroutput](./serveroutput.png)
+![serveroutput](https://github.com/mohammadfaizal87/webserver/assets/147139206/b321f00f-c3f4-4da7-8f0b-4ac1c885bcd2)
+
 ### client output
-![clientoutput](./clientoutput.png)
+![clientoutput](https://github.com/mohammadfaizal87/webserver/assets/147139206/6ee2c100-4e9a-4553-9e90-6e0457b4c367)
+
 ## RESULT:
 The program is executed succesfully
